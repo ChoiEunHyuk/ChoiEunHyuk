@@ -15,7 +15,6 @@
           <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=social&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=social&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=social&logo=Spring Boot&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
